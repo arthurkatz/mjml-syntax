@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[mj-accordion-element $1>
+		<mj-accordion-title $2>$3</mj-accordion-title>
+		<mj-accordion-text $4>$5</mj-accordion-text>
+</mj-accordion-element>]]></content>
+	<tabTrigger>mjaccordion-element</tabTrigger>
+    <description>MJML - MJML Accordion Element</description>
+	<scope>text.mjml.basic</scope>
+</snippet>

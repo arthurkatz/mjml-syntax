@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[mj-accordion>
+    $1
+</mj-accordion>]]></content>
+	<tabTrigger>mjaccordion</tabTrigger>
+    <description>MJML - MJML Accordion</description>
+	<scope>text.mjml.basic</scope>
+</snippet>
